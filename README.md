@@ -1,5 +1,5 @@
 # Pitiplus Group
 
 1. [Investment](/Investment)
-2. [Investment Diary](/Investment Diary)
+2. [Investment Diary](/Investment%20Diary)
 
