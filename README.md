@@ -1,4 +1,5 @@
 # Pitiplus Group
 
-1. <a href="Investment Diary">Investment Diary</a>
+1. [Investment](/Investment)
+2. [Investment Diary](/Investment-Diary)
 
